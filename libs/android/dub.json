@@ -1,0 +1,7 @@
+{
+	"authors": [
+		"ryhon"
+	],
+	"name": "android",
+	"libs": ["android", "log"]
+}

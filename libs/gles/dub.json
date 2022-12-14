@@ -1,0 +1,7 @@
+{
+	"authors": [
+		"ryhon"
+	],
+	"name": "gles",
+	"libs": ["GLESv1_CM"]
+}

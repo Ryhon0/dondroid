@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/egl
+egl.so
+egl.dylib
+egl.dll
+egl.a
+egl.lib
+egl-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/android-native-glue
+android-native-glue.so
+android-native-glue.dylib
+android-native-glue.dll
+android-native-glue.a
+android-native-glue.lib
+android-native-glue-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

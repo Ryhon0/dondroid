@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"ryhon"
+	],
+	"name": "egl",
+	"libs": ["EGL"],
+	"dependencies": {
+		"android":
+		{
+			"path": "../android"
+		}
+	}
+}

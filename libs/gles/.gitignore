@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/gles
+gles.so
+gles.dylib
+gles.dll
+gles.a
+gles.lib
+gles-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

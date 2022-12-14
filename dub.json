@@ -1,0 +1,42 @@
+{
+	"authors": [
+		"ryhon"
+	],
+	"copyright": "Copyright © 2022, ryhon",
+	"description": "D on Android. No Java needed!",
+	"name": "dondroid",
+	"dependencies": 
+	{
+		"gles":
+		{
+			"path": "libs/gles"
+		}
+	},
+	"configurations": [
+		{
+			"name": "desktop"
+		},
+		{
+			"name": "android",
+			"targetType": "dynamicLibrary",
+			"dependencies": {
+				"android":
+				{
+					"path": "libs/android"
+				},
+				"egl":
+				{
+					"path": "libs/egl"
+				},
+				"gles":
+				{
+					"path": "libs/gles"
+				},
+				"android-native-glue":
+				{
+					"path": "libs/android-native-glue"
+				}
+			}
+		}
+	]
+}

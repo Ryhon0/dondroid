@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"ryhon"
+	],
+	"name": "android-native-glue",
+	"dependencies": {
+		"android":{"path": "../android"}
+	}
+}
